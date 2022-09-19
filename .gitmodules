@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "haplo.ccs"]
+	path = haplo.ccs
+	url = https://github.com/vubiostat/haplo.ccs
+	shallow = true
+	registered = true
 [submodule "yaml"]
 	path = yaml
 	url = https://github.com/vubiostat/r-yaml
