@@ -1,9 +1,5 @@
 [
   {
-    "package": "haplo.ccs",
-    "oncran": true
-  },
-  {
     "package": "yaml",
     "oncran": true
   }
