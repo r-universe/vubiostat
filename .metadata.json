@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "redcapAPI",
+    "oncran": true
+  },
+  {
     "package": "yaml",
     "oncran": true
   }

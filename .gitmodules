@@ -8,6 +8,11 @@
 	url = https://github.com/vubiostat/haplo.ccs
 	shallow = true
 	registered = true
+[submodule "redcapAPI"]
+	path = redcapAPI
+	url = https://github.com/vubiostat/redcapapi
+	shallow = true
+	registered = true
 [submodule "yaml"]
 	path = yaml
 	url = https://github.com/vubiostat/r-yaml
