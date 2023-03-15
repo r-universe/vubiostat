@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "redcapAPI",
+    "package": "yaml",
     "oncran": true
   },
   {
-    "package": "yaml",
+    "package": "redcapAPI",
     "oncran": true
   }
 ]
