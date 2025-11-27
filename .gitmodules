@@ -11,6 +11,3 @@
 [submodule "shelter"]
 	path = shelter
 	url = https://github.com/vubiostat/shelter
-[submodule "yaml"]
-	path = yaml
-	url = https://github.com/vubiostat/r-yaml
