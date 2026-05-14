@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "haplo.ccs"]
-	path = haplo.ccs
-	url = https://github.com/vubiostat/haplo.ccs
 [submodule "redcapAPI"]
 	path = redcapAPI
 	url = https://github.com/vubiostat/redcapapi
